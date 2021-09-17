@@ -1,0 +1,36 @@
+h1{
+    color: white;
+}
+
+#banner{
+    background-color: darkgreen;
+
+}
+
+#encabezado{
+    background-color: lightgreen;
+}
+
+#sidebar-wrapper{
+    background-color: yellowgreen;
+}
+
+.list-group-item {
+    background-color: yellowgreen;
+}
+
+#contenido1{
+    border-color: brown;
+    border-width: 5px;
+    border-style: solid;
+}
+
+#contenido2{
+    border-color: brown;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.page-footer{
+    background-color: darkseagreen;
+}
